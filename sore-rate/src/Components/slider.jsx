@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Box, Alert, Icon ,Link} from '@chakra-ui/react';
 function UncontrolledExample() {
     return (
-        <Container maxW='container.lg' p={0}>
+        <Container maxW='container.lg' p={0} marginTop='60px'>
             <Box >
                 <Carousel style={{ height: '385px', borderRadius: '30px' }} variant="dark">
                     <Carousel.Item style={{ height: '385px', borderRadius: '10px' }}>

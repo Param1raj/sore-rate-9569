@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export default function Navbar() {
 
     return (
-        <Center w='full' h='60px'>
+        <Center w='full' h='60px' mt={0} style={{position:'fixed',top:'0px',zIndex:'4'}} bg='white'>
             <Container maxW='container.lg' h='40px' p={0} display='flex' gap={4}>
                 <NavLink to='/' style={{textDecoration:'none'}}>
                 <Box display='flex' alignItems='center' gap={2}>

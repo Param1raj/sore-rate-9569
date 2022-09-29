@@ -1,5 +1,5 @@
 import './App.css';
-// import {Container, Heading} from '@chakra-ui/react';
+import Items from './Components/scrollableItems';
 import Carousal from './Components/slider';
 import Boxes from './Components/CatagoryBoxes';
 import Navbar from './Components/navbar';
@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <Carousal/>
       <Boxes />
+      <Items />
     </div>
   );
 }
