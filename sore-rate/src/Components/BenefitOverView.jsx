@@ -1,6 +1,6 @@
 
 import { Center, Container, HStack, Text, VStack, Box, Grid,GridItem } from "@chakra-ui/react";
-import {Link} from 'react'
+import {Link} from '@chakra-ui/react'
 import { IoIosBed } from 'react-icons/io';
 import {BsPhone} from 'react-icons/bs';
 import {MdOutlineChairAlt} from 'react-icons/md';
@@ -9,9 +9,9 @@ import {MdMiscellaneousServices} from 'react-icons/md';
 
 
 export default function Benefits() {
-    return <Center w={'full'} h='650px' pt={'100px'} >
+    return (<Center w={'full'} h='650px' pt={'100px'} mb='200px'>
         <Container maxW={'container.lg'} h='85%' display='flex' alignItems='flexStart' >
-            <VStack spacing={4} w='full' display={'flex'} alignItems='flexStart'>
+            <VStack spacing={4} w='full' display='flex' alignItems='flexStart' >
                 <HStack >
                     <VStack spacing={0} alignItems='flexStart'>
                         <Text fontSize='xl' as='b' letterSpacing='wider' color={'gray.600'} ml='-1px'>There's more</Text>
@@ -65,8 +65,8 @@ export default function Benefits() {
                         </VStack>
                     </GridItem>
                 </Grid>
-
+                <Link to='https://www.rentomojo.com/benefits' as='b' textAlign={'left'} color='#1dbdc0'>Know More</Link>
             </VStack>
         </Container>
-    </Center>;
+    </Center>);
 }
