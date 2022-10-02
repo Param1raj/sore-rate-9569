@@ -39,7 +39,7 @@ export default function Footer() {
 
     // const ref = useRef(null)
     return (<Center w='full' h='auto' bg={'gray.100'}>
-        <Container maxW={'container.lg'} h='80%' pt='100px'>
+        <Container maxW={'6xl'} h='80%' pt='100px'>
             <VStack >
                 <VStack h={'auto'} p='0' w='full' sx={styles} spacing={2}>
                     <Text fontFamily='Muli,sans-serif' fontWeight={'semibold'} color='gray.500' fontSize='sm' textAlign={'left'} >Opt For RentoMojo In Gurgaon And Improve Your Quality Of Life</Text>

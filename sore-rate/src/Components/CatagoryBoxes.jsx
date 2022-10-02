@@ -6,7 +6,7 @@ import {GiWashingMachine} from 'react-icons/gi'
 import {BsPhone} from 'react-icons/bs'
 export default function Boxes(){
     return (
-        <Container maxW="container.lg" p={0}>
+        <Container maxW="6xl" p={0}>
             <SimpleGrid
             // bg='gray.50'
             columns={{ base:2,sm: 3, md: 4,lg:6 }}

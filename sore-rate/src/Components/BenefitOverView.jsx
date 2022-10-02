@@ -10,7 +10,7 @@ import {MdMiscellaneousServices} from 'react-icons/md';
 
 export default function Benefits() {
     return (<Center w={'full'} h='650px' pt={'100px'} mb='200px'>
-        <Container maxW={'container.lg'} h='85%' display='flex' alignItems='flexStart' >
+        <Container maxW={'5xl'} h='85%' display='flex' alignItems='flexStart' >
             <VStack spacing={4} w='full' display='flex' alignItems='flexStart' >
                 <HStack >
                     <VStack spacing={0} alignItems='flexStart'>

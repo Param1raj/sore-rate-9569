@@ -1,12 +1,11 @@
 import { useRef } from "react";
-import { Box, Button, Container, HStack, VStack, Grid, GridItem } from "@chakra-ui/react";
 export default function Scrolling() {
   const ref = useRef(null)
   const scroll = (scrollOffset) => {
     ref.current.scrollX += scrollOffset;
   };
   return (
-    <Box position={'relative'} right='500px' w='500px'>
+    <Box position={'relative'} right='500px' >
       <Container maxW='container.lg'>
         <HStack>
           <VStack>
