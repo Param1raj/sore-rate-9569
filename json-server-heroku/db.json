@@ -1,0 +1,85 @@
+{
+  "Cities": [
+    {   
+      "id":"1",  
+      "city": "Mumbai",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {   
+      "id":"2",  
+      "city": "Bangalore",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"3",
+        "city": "Pune",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {   
+        "id":"4",
+        "city": "Delhi",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"5",
+        "city": "Noid",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"6",
+        "city": "Gurgaun",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"7",
+        "city": "Haidrabar",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"8",
+        "city": "Chennai",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"9",
+        "city": "Ahmdaba",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"10",
+        "city": "Maysure",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {   
+        "id":"11",
+        "city": "Jaipur",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"12",
+        "city": "Faridabad",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"13",
+        "city": "Gaziabad",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"14",
+        "city": "GandhiNagar",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"15",
+        "city": "Chandigrah",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    },
+    {
+        "id":"16",
+        "city": "Kolkata",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJmjvaXQ923B1wABIir71ar-zzKygaBfgGg&usqp=CAU"
+    }
+]
+
+}
